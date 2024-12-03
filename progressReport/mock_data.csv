@@ -1,0 +1,101 @@
+﻿fullName,street1,street2,city,state,postal,year,make,model,plateID,type,emissions,batteryCap,range,fuelEfficiency,registration,saleAmount,saleDate
+Michael Young,991 Clark Crossroad Apt. 430,Apt. 661,North Lauraburgh,HS,17092,2017,Chevrolet,Malibu,0SJ3SMG,gas,3391.19,NULL,NULL,34.5,2022-09-08,NULL,NULL
+Kathleen Dominguez,65223 Cynthia Isle,Suite 013,Stevenville,IP,27861,2023,Honda,CR-V,EOAVPM9,gas,3891.99,NULL,NULL,21.9,NULL,NULL,NULL
+Alexa Oconnor,493 Adam Ford Apt. 328,NULL,Harpermouth,SV,76274,2018,Toyota,Camry,074F5RF,gas,4035.24,NULL,NULL,26.6,NULL,NULL,NULL
+John Munoz,26865 Hubbard Forge Apt. 630,Apt. 502,Cuevasstad,VY,25121,2016,Chevrolet,Impala,RI0H5PC,hybrid,3377.14,17.6,NULL,40.9,2022-11-24,NULL,NULL
+Sandra Potter,975 Lori Stravenue Apt. 978,NULL,Turnerchester,CA,23783,2019,Toyota,Prius,3GWWBFV,gas,5949.63,NULL,NULL,31.1,2020-03-15,8476.36,2020-07-15
+Samantha Hicks,0957 Trevor Shore,Apt. 278,North Erin,AH,37995,2022,Toyota,Prius,0O7SYWO,hybrid,2791.52,12.1,NULL,39.0,NULL,NULL,NULL
+Mark Bruce,463 Villa Place Apt. 600,Suite 141,Brendaton,WT,44381,2020,Tesla,Model 3,4RUXITC,gas,3853.93,NULL,NULL,24.6,NULL,NULL,NULL
+Maria Boone,4163 Pamela Wall,Apt. 730,Johnsonberg,TX,48332,2015,Chevrolet,Impala,XPCKM3O,electric,73.58,52.7,367,NULL,NULL,NULL,NULL
+Roger Arnold,4767 Nichols Forge,Suite 172,Lake Jenniferborough,DA,91353,2015,Chevrolet,Tahoe,A7Y1LOP,gas,3871.19,NULL,NULL,27.2,NULL,NULL,NULL
+Vanessa Williams,15717 Mahoney Course,Suite 606,Nielsenborough,JS,73073,2016,Honda,CR-V,EPOG7A3,electric,69.22,71.5,324,NULL,2022-10-07,12359.92,2024-04-24
+Devin Wheeler,6797 Shawn Wall,NULL,Heathermouth,YE,73386,2016,Tesla,Model X,9BAUUUB,electric,50.79,66.6,326,NULL,2024-02-15,NULL,NULL
+Penny Wilson,76066 Glenn Pine Suite 135,Suite 452,Brownton,SY,82955,2019,Chevrolet,Tahoe,2V02294,electric,88.25,87.8,345,NULL,2020-10-21,15116.32,2020-10-25
+Cassandra Reynolds,8836 Drake Skyway,NULL,West Isaacstad,FK,45746,2019,Tesla,Model 3,KXJ070E,gas,2937.70,NULL,NULL,32.9,NULL,NULL,NULL
+David Huff,54213 Schmidt Streets Apt. 043,NULL,New James,VK,55463,2020,Honda,CR-V,XY88GAY,hybrid,2530.89,14.9,NULL,33.5,NULL,NULL,NULL
+Rachel Little,9957 Sarah Tunnel,Suite 458,Lake Angela,QK,88700,2017,Ford,Mustang,5QY7QWP,hybrid,3248.48,13.8,NULL,35.7,NULL,NULL,NULL
+Natalie Harris,3793 Kristi Island Suite 827,NULL,West Sheila,GM,98823,2019,Chevrolet,Impala,EYSAHWN,gas,1958.25,NULL,NULL,23.0,NULL,NULL,NULL
+Danielle Hill,7863 Jeremy Field,NULL,Sarahtown,CR,79946,2023,Honda,Civic,B68F058,electric,100.03,88.3,324,NULL,NULL,NULL,NULL
+Miranda Torres,2625 Audrey Meadow,Suite 034,Spearsstad,OH,79768,2015,Tesla,Model 3,O4GF10E,electric,51.51,71.6,481,NULL,2023-01-08,16729.73,2023-08-13
+Ryan Franklin,10014 Thomas Fork,Suite 955,Grossburgh,QW,55254,2023,Tesla,Model X,7OHWSRK,gas,6224.97,NULL,NULL,32.2,NULL,NULL,NULL
+Daniel Williams,65459 Delgado Hill,NULL,Payneburgh,PM,92650,2018,Chevrolet,Tahoe,8HX3MY2,gas,3326.44,NULL,NULL,26.6,NULL,NULL,NULL
+Cameron Mccullough,271 Williams Viaduct,Apt. 792,Andrewview,QH,81634,2023,Tesla,Model X,CZJRMZE,hybrid,1908.71,15.1,NULL,48.4,2023-10-02,NULL,NULL
+Suzanne Davis,550 Erica Freeway Apt. 532,NULL,Garyview,AD,38317,2023,Honda,CR-V,UM7CLOO,hybrid,3662.54,14.7,NULL,30.6,2022-09-17,NULL,NULL
+Brian West,2623 Fernandez Green,Apt. 364,North Christopher,WC,95290,2020,Chevrolet,Impala,FTBH9IS,gas,3424.66,NULL,NULL,22.4,NULL,NULL,NULL
+Sergio Harding,396 Jones Forks,Suite 051,Port Toniview,DP,76893,2021,Ford,Mustang,R2S3K8I,gas,3988.38,NULL,NULL,31.3,2023-12-29,NULL,NULL
+Christina Hill,6035 Matthew Junction Apt. 268,Apt. 589,New James,NJ,75591,2015,Toyota,Corolla,PPEN5K9,gas,1971.41,NULL,NULL,31.6,2024-09-20,30233.37,2024-09-24
+Sarah Butler,578 Harold Ports Suite 977,Suite 369,Olsonburgh,QQ,63911,2015,Honda,Civic,Y54RJEQ,gas,2696.02,NULL,NULL,25.5,2021-02-14,NULL,NULL
+Jeremiah Nguyen,950 Lester Prairie Apt. 559,Suite 410,South Meaganland,CG,67020,2023,Tesla,Model Y,H2N0XV0,gas,3469.11,NULL,NULL,27.7,2024-04-25,NULL,NULL
+Kristine Smith,533 Sparks Stream,Apt. 294,East Vickieside,CG,41495,2020,Ford,Fusion,OKON68T,hybrid,1515.19,19.0,NULL,45.0,NULL,NULL,NULL
+Daniel Brooks,124 Brittney Ways,Suite 005,South Jonathanton,OM,20718,2015,Ford,Mustang,09OQJX3,gas,3991.50,NULL,NULL,23.8,NULL,NULL,NULL
+Dawn Brown,6648 Paige Forges Apt. 086,NULL,Port Crystal,KZ,22962,2021,Honda,Insight,GZ2TMFX,gas,3444.70,NULL,NULL,22.9,NULL,NULL,NULL
+Joseph Ray,6194 Kennedy Fords Suite 482,Apt. 504,New Kevintown,VX,39114,2020,Honda,Civic,E56X5G7,gas,2911.67,NULL,NULL,22.0,2023-06-19,NULL,NULL
+Richard Cooper,784 Megan Roads Suite 967,Apt. 070,New Amanda,XL,70212,2022,Ford,F-150,W4HTT5X,hybrid,1405.54,10.0,NULL,48.9,2021-10-31,NULL,NULL
+Kimberly Crane,57116 Kent Islands Suite 803,NULL,New Jennifer,FN,96954,2020,Tesla,Model 3,6ED7FOZ,hybrid,1491.34,14.9,NULL,40.3,NULL,NULL,NULL
+Nancy Bailey,76733 Edwards Course Apt. 526,NULL,South Coryfurt,EX,42155,2019,Chevrolet,Malibu,HF9GMD4,hybrid,2250.91,18.2,NULL,30.9,NULL,NULL,NULL
+Timothy Cruz,550 Barnes Isle,Apt. 077,Katrinabury,LO,57790,2016,Ford,F-150,984UFTY,electric,104.21,76.8,478,NULL,NULL,NULL,NULL
+Mrs. Kimberly Wright,27239 Gabriel Mills Suite 377,Apt. 645,North Gregorytown,AQ,71465,2015,Honda,CR-V,SPOAM8U,hybrid,4734.53,14.4,NULL,49.8,NULL,NULL,NULL
+Olivia Rose,6927 Hickman Common Suite 912,NULL,North Danielle,TE,32815,2015,Chevrolet,Impala,7SKL81M,hybrid,2044.70,19.2,NULL,36.1,2023-06-25,NULL,NULL
+Jessica Long,4473 Maldonado Gardens Suite 595,Apt. 043,Richardberg,XL,22449,2018,Toyota,Prius,PN7ODJL,gas,2877.22,NULL,NULL,21.6,NULL,NULL,NULL
+Heidi Barr,6828 Jennifer Burgs,Apt. 529,New Alexandria,HY,88467,2023,Chevrolet,Tahoe,XG41EG4,electric,115.88,62.4,403,NULL,2021-04-22,NULL,NULL
+David Warren,8502 Megan Neck,NULL,Johnsonberg,ID,97729,2022,Chevrolet,Malibu,KEMKAIK,electric,110.97,81.2,347,NULL,NULL,NULL,NULL
+David Ferguson,474 Parker Coves,NULL,Haysville,PA,87011,2023,Toyota,Prius,JE0OEV4,electric,73.51,95.0,444,NULL,NULL,NULL,NULL
+Gabrielle Reyes DVM,3941 Megan Trail Suite 244,Suite 206,Kathleenmouth,LV,53338,2021,Honda,Accord,UTK2F30,hybrid,1020.73,19.1,NULL,34.3,2021-09-15,NULL,NULL
+Nicole Rodriguez,241 Ford Unions,NULL,West Nathan,EL,32897,2017,Tesla,Model S,FFY04AQ,electric,120.96,60.7,314,NULL,2023-07-09,NULL,NULL
+Kristin Ruiz,5507 Megan Dale,Suite 560,West Connie,GU,97371,2021,Tesla,Model S,FYQZR89,hybrid,950.84,19.0,NULL,40.1,2021-06-22,NULL,NULL
+Blake Rasmussen,538 Wendy View Apt. 200,Apt. 291,Fordside,AM,20053,2019,Tesla,Model Y,DVHPEVB,gas,3638.51,NULL,NULL,23.7,NULL,NULL,NULL
+Amanda Martin,6304 Megan Crescent Suite 417,NULL,New Kathleen,UN,57979,2017,Toyota,Prius,GU2D670,gas,3536.31,NULL,NULL,22.4,NULL,NULL,NULL
+Michael Jones,943 Boyer Parkways Apt. 886,NULL,East Jessica,ML,61958,2019,Ford,Mustang,C6UEPJW,hybrid,1615.12,17.1,NULL,42.8,2023-06-26,NULL,NULL
+Frank Robinson,8375 Dustin Trail,Suite 755,Rojaston,ZJ,92135,2015,Honda,Insight,6NXEPSR,hybrid,2820.43,11.0,NULL,31.3,2024-07-22,34411.02,2024-09-18
+Rita Jordan,39829 Courtney Gardens,Apt. 651,East William,NR,19848,2023,Ford,Escape,C77YA8U,hybrid,2193.82,12.6,NULL,35.0,NULL,NULL,NULL
+Christopher Bryant,54643 William Gardens,NULL,West Tonya,VF,99411,2018,Toyota,Corolla,D5GT2YZ,electric,106.65,69.8,419,NULL,2023-04-04,NULL,NULL
+Benjamin Andrews,5082 Ruben Mountain,NULL,Frankton,QR,69236,2015,Chevrolet,Malibu,33T6OT7,gas,6499.80,NULL,NULL,34.4,NULL,NULL,NULL
+Amy Ortiz,982 Maynard Keys Suite 099,Suite 587,South Stephanie,PH,63817,2015,Honda,CR-V,T33KYHX,hybrid,2793.10,10.6,NULL,47.3,2022-07-24,NULL,NULL
+Benjamin Gallegos,63825 Marshall Pine Suite 068,NULL,North Charlesville,JR,46627,2016,Chevrolet,Malibu,CAZLOGN,electric,73.14,74.0,355,NULL,2020-07-06,NULL,NULL
+Adam Gray,426 Higgins Junction,NULL,South Michaelstad,CD,45198,2016,Ford,Fusion,2B24HQX,hybrid,1698.81,16.2,NULL,48.8,NULL,NULL,NULL
+Amber Hodges,70406 Bowers Alley,Suite 732,Whitneyhaven,CQ,79761,2016,Toyota,Prius,48M43CI,electric,53.54,72.8,388,NULL,NULL,NULL,NULL
+Sonia Wilson,64876 Sullivan Mountains Apt. 273,NULL,Barnesside,UY,94761,2022,Ford,Escape,37R1JT8,hybrid,1559.05,15.9,NULL,40.2,NULL,NULL,NULL
+Angelica Snyder,76037 Karen Cove,Apt. 706,Smithborough,SY,17362,2017,Honda,CR-V,IFAZBB6,hybrid,2374.18,11.9,NULL,47.4,NULL,NULL,NULL
+Anthony Kennedy,53033 Bowen Cliff,Apt. 054,Jeffreyview,RQ,20196,2015,Chevrolet,Malibu,KNMUI64,hybrid,676.71,15.3,NULL,39.2,2022-07-05,NULL,NULL
+Kayla Edwards,11441 Reynolds Rapid,NULL,East Peterville,OX,76848,2015,Tesla,Model X,12MV4AW,hybrid,774.56,11.2,NULL,46.1,NULL,NULL,NULL
+Martin Bennett,2569 Daniel Rest,Suite 630,New David,YM,90839,2022,Tesla,Model X,JMWA0IH,electric,66.33,79.5,450,NULL,2023-02-27,14774.34,2024-07-28
+Jacqueline Miller,538 Anderson Parkways Suite 476,Apt. 091,Lake Mckenzie,SS,56564,2021,Honda,CR-V,QID35T0,hybrid,1938.25,16.0,NULL,46.8,2022-12-18,45777.00,2023-11-01
+Carol Gordon,0734 Novak Inlet Suite 607,NULL,Smithhaven,RL,33745,2022,Toyota,RAV4,XW39LCQ,electric,65.16,81.4,395,NULL,2020-12-23,NULL,NULL
+Diane Smith,981 John Road,NULL,Port Yolanda,HX,58313,2021,Honda,Accord,HUZ59A9,electric,146.59,69.3,490,NULL,2020-02-20,42082.42,2023-03-18
+Gary Gilbert,10125 Barbara Keys Apt. 200,NULL,Marissamouth,BQ,93755,2016,Ford,Mustang,DP01ZHS,electric,124.51,84.3,476,NULL,2022-09-24,NULL,NULL
+Diane Valencia,59471 Torres Mission Apt. 656,NULL,Tylerburgh,FZ,95793,2019,Toyota,RAV4,KZM97WC,gas,6981.95,NULL,NULL,24.1,2023-10-01,28599.99,2024-05-28
+Deborah Watkins,462 Sandoval Rue,Suite 618,West Andreahaven,RB,60491,2023,Tesla,Model Y,82PW7CB,electric,118.45,68.5,475,NULL,NULL,NULL,NULL
+Timothy Green,1187 Dana Freeway Suite 530,Suite 075,South Crystal,XN,66210,2020,Chevrolet,Bolt EV,ZPUOTPJ,electric,69.16,60.5,311,NULL,NULL,NULL,NULL
+Nicholas Miller,1508 James Springs Apt. 806,NULL,South Victoria,XI,22010,2021,Ford,F-150,KJSGRT2,hybrid,1146.70,18.5,NULL,44.8,2021-02-03,NULL,NULL
+Julie Waters,8065 Sara Islands,NULL,Smithburgh,LZ,36493,2023,Chevrolet,Tahoe,CQG6ZCD,hybrid,3800.39,13.2,NULL,33.7,2020-10-04,NULL,NULL
+Darrell Tate,291 Foster Shores Apt. 602,Apt. 169,Garciaville,GM,18540,2020,Honda,CR-V,XXIYRXT,electric,139.42,91.5,383,NULL,NULL,NULL,NULL
+Lee Richard MD,250 Oliver Knolls,NULL,Amandafurt,IV,62844,2015,Ford,Escape,FIJMQD7,hybrid,1197.30,14.4,NULL,45.7,NULL,NULL,NULL
+Sean Francis,5835 Stephanie Centers,Suite 759,Port Danielle,PN,53941,2017,Toyota,Prius,A8O8U66,hybrid,1052.22,13.3,NULL,34.1,NULL,NULL,NULL
+Mary Jones,499 Nicholas Ridge,NULL,East Jessicachester,RL,76325,2022,Honda,Civic,N78C26O,electric,143.59,95.0,441,NULL,2023-11-30,NULL,NULL
+Jessica Pope,057 Rachel Mills Suite 731,Apt. 591,North Karenberg,LL,44245,2018,Honda,CR-V,8Z18MTJ,hybrid,1857.63,11.8,NULL,37.4,NULL,NULL,NULL
+Jorge Robbins,3134 Rebecca Orchard,Apt. 288,Hayesfort,QW,14503,2021,Toyota,Camry,K2SUVST,hybrid,2910.52,13.0,NULL,39.4,NULL,NULL,NULL
+Michael Arias,80019 Moore Mission,Apt. 249,Port Sethton,NK,82538,2017,Toyota,RAV4,ZBTMRS2,gas,5282.31,NULL,NULL,34.8,NULL,NULL,NULL
+Patricia Yu,8784 Ashley Junction Apt. 746,NULL,Erinfurt,WA,36720,2023,Honda,Accord,WX994NB,hybrid,4257.67,13.7,NULL,32.8,2021-05-17,NULL,NULL
+Michael Cross,013 Smith Trace Apt. 471,Apt. 679,New Rachel,XH,79376,2017,Honda,Accord,B9FMZEC,hybrid,1859.62,12.1,NULL,35.4,2022-11-23,27693.92,2023-02-21
+Anthony Bernard,1831 Smith Summit,NULL,New Jasmine,CU,35225,2021,Chevrolet,Tahoe,6S7DSGU,gas,1985.52,NULL,NULL,20.4,2020-05-27,NULL,NULL
+John Davis,8288 Miller Trail Suite 217,NULL,Andrewhaven,VC,65055,2023,Tesla,Model 3,IPA79X4,hybrid,1935.80,18.1,NULL,41.8,2020-05-17,NULL,NULL
+Tiffany Morton,8356 Fox Avenue Apt. 008,Suite 737,Barnesbury,NJ,13033,2015,Honda,Insight,LJ39F8J,gas,2731.24,NULL,NULL,24.7,2021-05-05,NULL,NULL
+James Hill,6174 Nicholas Locks,Apt. 882,West Paul,QL,83700,2015,Ford,Mustang,UMZ8DGA,electric,86.20,77.7,468,NULL,NULL,NULL,NULL
+Greg Hudson,509 Ball Crest Suite 862,Suite 862,Vasquezfurt,QV,61684,2019,Tesla,Model Y,TNAL3IN,electric,66.06,80.7,348,NULL,2020-05-19,NULL,NULL
+Stephanie Bradley,6257 Chad Mountain,NULL,Lake Christophermouth,GG,47492,2019,Ford,Fusion,CL18FKD,gas,3689.49,NULL,NULL,32.1,2023-12-04,NULL,NULL
+Brian Williams,2135 Mary Court Apt. 898,Suite 300,West Dalestad,KG,27686,2023,Honda,Accord,ISKBMO0,hybrid,911.17,12.4,NULL,35.6,2019-12-18,13728.53,2020-02-12
+Tamara Fleming,453 Hernandez Way Apt. 339,NULL,East David,KS,51771,2021,Tesla,Model S,MKKHDH3,electric,99.72,59.2,368,NULL,NULL,NULL,NULL
+Patricia Hanson,5502 Coleman Ridges Apt. 094,NULL,Port Darrell,HA,68609,2022,Toyota,Camry,I9330S4,electric,140.41,83.5,359,NULL,2022-10-09,NULL,NULL
+Kimberly Cole,7327 Heather Mews,NULL,Deleonmouth,SL,31961,2023,Honda,Insight,T9XM7AE,gas,2445.38,NULL,NULL,23.3,2023-08-30,NULL,NULL
+Charles Graves,610 Peter Station Apt. 685,NULL,North Wendyview,HQ,36781,2023,Toyota,Camry,Q5RTN1T,hybrid,1949.54,13.7,NULL,40.9,2023-10-06,NULL,NULL
+Brandi Sanchez,749 Crystal Cove,Suite 703,West Cindy,IW,66394,2019,Honda,Accord,WVC99E4,hybrid,1739.30,17.1,NULL,42.6,NULL,NULL,NULL
+Christine Vasquez,47488 Michelle Ports,NULL,South Caitlinland,VI,33710,2016,Honda,Insight,6OFT1H6,gas,5820.62,NULL,NULL,25.5,2020-12-17,NULL,NULL
+Angelica Thomas,887 Sharp Avenue,NULL,Thomaston,RT,86926,2018,Chevrolet,Malibu,QU4BPAC,electric,80.35,90.9,346,NULL,NULL,NULL,NULL
+Brandon Solis,19137 Smith Park Apt. 472,NULL,Jonesfurt,NB,69519,2022,Ford,Mustang,8GXJFSJ,gas,4682.72,NULL,NULL,30.0,NULL,NULL,NULL
+Joel Ashley Jr.,96383 Reyes Grove Apt. 466,NULL,Reevesburgh,RM,58638,2015,Honda,Insight,WX46PDQ,hybrid,1853.73,18.4,NULL,43.7,2022-12-03,NULL,NULL
+Joshua Adams,74631 Lori Spur Suite 956,Apt. 759,Alexanderberg,CV,11060,2019,Honda,CR-V,R6TM5SA,electric,105.59,77.0,454,NULL,NULL,NULL,NULL
+Robert Cross,008 Moore Curve Apt. 631,NULL,Port Peterport,RI,23754,2017,Honda,Accord,6CWM26B,electric,66.08,84.6,458,NULL,2020-06-19,29504.90,2023-10-23
+Jenna Berger,4254 Johnson Manor,Suite 877,Kennedyside,JQ,17727,2016,Toyota,Prius,I45QR8J,hybrid,2572.40,14.5,NULL,45.6,NULL,NULL,NULL
+Amber Bishop,4531 Moore Falls,Apt. 252,Richardside,HH,15530,2015,Tesla,Model S,MHXUMXI,hybrid,1844.36,13.7,NULL,38.9,2024-05-20,NULL,NULL
+Roberto Armstrong,01986 Smith Tunnel,Apt. 642,Port Jennifer,XZ,86100,2017,Chevrolet,Bolt EV,4YJS2MC,electric,115.80,73.7,489,NULL,2020-03-08,NULL,NULL
+Jennifer Hanson,49862 Eric Point Suite 741,NULL,North Tiffany,FI,83030,2015,Tesla,Model 3,2NB60PV,electric,81.49,97.3,457,NULL,NULL,NULL,NULL

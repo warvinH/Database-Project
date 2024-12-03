@@ -1,0 +1,113 @@
+month,category,type,number
+2016-12,Cars,Petrol,578977
+2016-12,Cars,Diesel,10364
+2016-12,Cars,Petrol-Electric,10075
+2016-12,Cars,Petrol-Electric (Plug-In),125
+2016-12,Cars,Petrol-CNG,1682
+2016-12,Cars,CNG,0
+2016-12,Cars,Electric,12
+2016-12,Cars,Diesel-Electric,22
+2016-12,Taxis,Petrol,260
+2016-12,Taxis,Diesel,23748
+2016-12,Taxis,Petrol-Electric,2492
+2016-12,Taxis,Petrol-CNG,1034
+2016-12,Taxis,CNG,0
+2016-12,Motor-cycles,Petrol,142437
+2016-12,Motor-cycles,Electric,2
+2016-12,Goods & Other Vehicles,Petrol,7123
+2016-12,Goods & Other Vehicles,Diesel,136809
+2016-12,Goods & Other Vehicles,Petrol-Electric,1
+2016-12,Goods & Other Vehicles,Petrol-CNG,5
+2016-12,Goods & Other Vehicles,CNG,3
+2016-12,Goods & Other Vehicles,Electric,18
+2016-12,Goods & Other Vehicles,Diesel-Electric,7
+2016-12,Buses,Petrol,73
+2016-12,Buses,Diesel,18247
+2016-12,Buses,Petrol-CNG,2
+2016-12,Buses,CNG,12
+2016-12,Buses,Electric,1
+2016-12,Buses,Diesel-Electric,3
+2017-12,Cars,Petrol,574443
+2017-12,Cars,Diesel,15514
+2017-12,Cars,Petrol-Electric,20751
+2017-12,Cars,Petrol-Electric (Plug-In),206
+2017-12,Cars,Petrol-CNG,1006
+2017-12,Cars,CNG,0
+2017-12,Cars,Electric,314
+2017-12,Cars,Diesel-Electric,22
+2017-12,Taxis,Petrol,129
+2017-12,Taxis,Diesel,18851
+2017-12,Taxis,Petrol-Electric,4159
+2017-12,Taxis,Petrol-CNG,1
+2017-12,Taxis,CNG,0
+2017-12,Motor-cycles,Petrol,141302
+2017-12,Motor-cycles,Electric,2
+2017-12,Goods & Other Vehicles,Petrol,5009
+2017-12,Goods & Other Vehicles,Diesel,137803
+2017-12,Goods & Other Vehicles,Petrol-Electric,1
+2017-12,Goods & Other Vehicles,Petrol-CNG,3
+2017-12,Goods & Other Vehicles,CNG,3
+2017-12,Goods & Other Vehicles,Electric,31
+2017-12,Goods & Other Vehicles,Diesel-Electric,7
+2017-12,Buses,Petrol,43
+2017-12,Buses,Diesel,18753
+2017-12,Buses,Petrol-CNG,1
+2017-12,Buses,CNG,12
+2017-12,Buses,Electric,2
+2017-12,Buses,Diesel-Electric,3
+2018-01,Cars,Petrol,572883
+2018-01,Cars,Diesel,15572
+2018-01,Cars,Petrol-Electric,20810
+2018-01,Cars,Petrol-Electric (Plug-In),207
+2018-01,Cars,Petrol-CNG,972
+2018-01,Cars,CNG,0
+2018-01,Cars,Electric,335
+2018-01,Cars,Diesel-Electric,21
+2018-01,Taxis,Petrol,112
+2018-01,Taxis,Diesel,18625
+2018-01,Taxis,Petrol-Electric,4154
+2018-01,Taxis,Petrol-CNG,0
+2018-01,Taxis,CNG,0
+2018-01,Motor-cycles,Petrol,140771
+2018-01,Motor-cycles,Electric,2
+2018-01,Goods & Other Vehicles,Petrol,4961
+2018-01,Goods & Other Vehicles,Diesel,137439
+2018-01,Goods & Other Vehicles,Petrol-Electric,1
+2018-01,Goods & Other Vehicles,Petrol-CNG,3
+2018-01,Goods & Other Vehicles,CNG,3
+2018-01,Goods & Other Vehicles,Electric,31
+2018-01,Goods & Other Vehicles,Diesel-Electric,7
+2018-01,Buses,Petrol,42
+2018-01,Buses,Diesel,18734
+2018-01,Buses,Petrol-CNG,1
+2018-01,Buses,CNG,12
+2018-01,Buses,Electric,2
+2018-01,Buses,Diesel-Electric,3
+2018-02,Cars,Petrol,573108
+2018-02,Cars,Diesel,15658
+2018-02,Cars,Petrol-Electric,21014
+2018-02,Cars,Petrol-Electric (Plug-In),211
+2018-02,Cars,Petrol-CNG,950
+2018-02,Cars,CNG,0
+2018-02,Cars,Electric,346
+2018-02,Cars,Diesel-Electric,21
+2018-02,Taxis,Petrol,110
+2018-02,Taxis,Diesel,18181
+2018-02,Taxis,Petrol-Electric,4149
+2018-02,Taxis,Petrol-CNG,0
+2018-02,Taxis,CNG,0
+2018-02,Motor-cycles,Petrol,140259
+2018-02,Motor-cycles,Electric,3
+2018-02,Goods & Other Vehicles,Petrol,4945
+2018-02,Goods & Other Vehicles,Diesel,137202
+2018-02,Goods & Other Vehicles,Petrol-Electric,1
+2018-02,Goods & Other Vehicles,Petrol-CNG,3
+2018-02,Goods & Other Vehicles,CNG,3
+2018-02,Goods & Other Vehicles,Electric,31
+2018-02,Goods & Other Vehicles,Diesel-Electric,7
+2018-02,Buses,Petrol,42
+2018-02,Buses,Diesel,18726
+2018-02,Buses,Petrol-CNG,1
+2018-02,Buses,CNG,12
+2018-02,Buses,Electric,2
+2018-02,Buses,Diesel-Electric,3
