@@ -1,3 +1,5 @@
+# All credit of this program goes to Laween Al-Sulaivany student of CSIS department
+
 import csv
 from pathlib import Path
 import string
@@ -26,5 +28,5 @@ def clean_csv(input_file):
     print(f"Number of lines cleaned: {lines_cleaned}")
 
 # Replace 'your_file.csv' with your actual file name
-clean_csv('team_table.csv')
+clean_csv('your_file.csv')
 
