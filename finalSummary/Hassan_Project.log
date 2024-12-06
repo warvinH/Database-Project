@@ -1,0 +1,275 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.24)  4 DEC 2024 23:55
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Hassan_Project.tex
+(Hassan_Project.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count193
+\float@exts=\toks16
+\float@box=\box51
+\@float@everytoks=\toks17
+\@floatcapt=\box52
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquot
+es.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolb
+ox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+\csq@reset=\count195
+\csq@gtype=\count196
+\csq@glevel=\count197
+\csq@qlevel=\count198
+\csq@maxlvl=\count199
+\csq@tshold=\count266
+\csq@ltx@everypar=\toks19
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquot
+es.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquot
+es.cfg
+File: csquotes.cfg 
+))
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... none found.
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box53
+) (Hassan_Project.aux)
+\openout1 = `Hassan_Project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count268
+\scratchdimen=\dimen143
+\scratchbox=\box54
+\nofMPsegments=\count269
+\nofMParguments=\count270
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count271
+\MPscratchDim=\dimen144
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.s
+ty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvset
+keys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Docter Pepper\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+ [1
+
+{C:/Users/Docter Pepper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (46.65215pt too wide) in paragraph at lines 20--21
+\OT1/cmr/m/n/12 Owner in-for-ma-tion, such as full-name, and ad-dress(street1,s
+treet2optional,city,state,postal)
+ []
+
+[2]
+<table.png, id=11, 370.38374pt x 85.06781pt>
+File: table.png Graphic file (type png)
+<use table.png>
+Package pdftex.def Info: table.png  used on input line 30.
+(pdftex.def)             Requested size: 469.75499pt x 107.89212pt.
+<q.jpg, id=13, 516.42938pt x 236.38312pt>
+File: q.jpg Graphic file (type jpg)
+<use q.jpg>
+Package pdftex.def Info: q.jpg  used on input line 37.
+(pdftex.def)             Requested size: 469.75499pt x 215.026pt.
+<tdia.jpg, id=14, 959.2638pt x 473.1276pt>
+File: tdia.jpg Graphic file (type jpg)
+<use tdia.jpg>
+Package pdftex.def Info: tdia.jpg  used on input line 44.
+(pdftex.def)             Requested size: 469.75499pt x 231.69016pt.
+<address.jpg, id=15, 441.90094pt x 175.40532pt>
+File: address.jpg Graphic file (type jpg)
+<use address.jpg>
+Package pdftex.def Info: address.jpg  used on input line 51.
+(pdftex.def)             Requested size: 469.75499pt x 186.46938pt.
+<electric.jpg, id=16, 462.97969pt x 129.48375pt>
+File: electric.jpg Graphic file (type jpg)
+<use electric.jpg>
+Package pdftex.def Info: electric.jpg  used on input line 58.
+(pdftex.def)             Requested size: 469.75499pt x 131.38014pt.
+<gas.jpg, id=17, 435.87843pt x 112.92188pt>
+File: gas.jpg Graphic file (type jpg)
+<use gas.jpg>
+Package pdftex.def Info: gas.jpg  used on input line 65.
+(pdftex.def)             Requested size: 469.75499pt x 121.69878pt.
+<vehicle.jpg, id=18, 429.10312pt x 222.8325pt>
+File: vehicle.jpg Graphic file (type jpg)
+<use vehicle.jpg>
+Package pdftex.def Info: vehicle.jpg  used on input line 72.
+(pdftex.def)             Requested size: 469.75499pt x 243.94685pt.
+<engine.jpg, id=19, 300.3722pt x 97.11281pt>
+File: engine.jpg Graphic file (type jpg)
+<use engine.jpg>
+Package pdftex.def Info: engine.jpg  used on input line 79.
+(pdftex.def)             Requested size: 469.75499pt x 151.88953pt.
+<personvehicle.jpg, id=20, 422.32782pt x 191.9672pt>
+File: personvehicle.jpg Graphic file (type jpg)
+<use personvehicle.jpg>
+Package pdftex.def Info: personvehicle.jpg  used on input line 86.
+(pdftex.def)             Requested size: 469.75499pt x 213.53133pt.
+<person.jpg, id=21, 292.09125pt x 77.53969pt>
+File: person.jpg Graphic file (type jpg)
+<use person.jpg>
+Package pdftex.def Info: person.jpg  used on input line 93.
+(pdftex.def)             Requested size: 469.75499pt x 124.71436pt.
+ [3] [4] [5 <./table.png>] [6 <./q.jpg>] [7 <./tdia.jpg>] [8 <./address.jpg>] [
+9 <./electric.jpg>] [10 <./gas.jpg>] [11 <./vehicle.jpg>] [12 <./engine.jpg>] [
+13 <./personvehicle.jpg>] [14 <./person.jpg>] (Hassan_Project.aux) ) 
+Here is how much of TeX's memory you used:
+ 3015 strings out of 476406
+ 52873 string characters out of 2785755
+ 1859787 words of memory out of 3000000
+ 23355 multiletter control sequences out of 15000+600000
+ 514104 words of font info for 38 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,7n,67p,1751b,290s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/D
+octer Pepper/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Users/Docter Pepper/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb><C:/Users/Docter Pepper/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Hassan_Project.pdf (14 pages, 1080056 bytes).
+PDF statistics:
+ 77 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
